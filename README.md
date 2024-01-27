@@ -3,6 +3,9 @@
 
 This repository provides a PyTorch implementation for classifying body shapes using image segmentation. The goal of this study is to classify body shapes into five categories: Rectangle, Triangle, Inverted Triangle, Hourglass, and Apple, using the Style4BodyShape dataset. for this purpose body shape segmentation masks were extracted. By leveraging the body shape segmentation masks, the model focuses solely on the body shape information while disregarding the surroundings and background. 
 
+![image](https://github.com/Mahsa33/Body-Shape-Classification/assets/53941450/129ca327-bbf5-4d9f-a961-76345d8660dd)
+
+
 **Dataset**
 
 The Style4BodyShape dataset is utilized in this project. It consists of images of 270 women in various outfits. The outfits are categorized into five main classes: dresses, pants, skirts, tops, and outerwear. To clean the dataset, only images in which the subject is wearing form-fitting clothing and their hands are separated from their bodies are retained.
