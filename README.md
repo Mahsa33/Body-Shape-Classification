@@ -12,9 +12,14 @@ The Style4BodyShape dataset is utilized in this project. It consists of images o
 Various pre-trained models are employed for the classification of the body shape segmentation results. The following models have been utilized:
 
 ResNet18
+
 ResNet34
+
 ResNet50
+
 VGG16
+
 VGG19
+
 Inception v3
 
